@@ -1,2 +1,2 @@
-open-API-manfesto
+open-API-manifesto
 =================
