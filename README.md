@@ -1,0 +1,2 @@
+open-API-manfesto
+=================
